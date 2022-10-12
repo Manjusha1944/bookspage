@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.homepage {
+    padding: 24px;
+    height: 100vh;
+    background-color: #1b1b1b;
+}
+
+.hmp {
+    color: #ffffff;
+    font-size: 28px;
+    font-family: "Bree Serif";
+}
+
+.wf {
+    background-color: #e6f6ff;
+    border-radius: 8px;
+}
+
+.apj {
+    width: 126px;
+    height: 180px;
+}
+
+.wfcontainer {
+    padding: 16px;
+}
+
+.wfheading {
+    font-size: 16px;
+    color: #183b56;
+    font-family: "Bree Serif";
+}
+
+.wfdescription {
+    font-size: 12px;
+    color: #06070d;
+    font-family: "Bree Serif";
+}
+
+.wfauthor {
+    color: #183b56;
+    font-size: 10px;
+    font-family: "Bree Serif";
+}
+
+.button {
+    font-size: 12px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.sub {
+    font-size: 20px;
+    color: #ffffff;
+    font-family: "Bree Serif";
+    margin-top: 10px;
+}
+
+.sub-container {
+    margin-bottom: 10px;
+}
+
+.rb1 {
+    width: 80px;
+    height: 125px;
+}
+
+.rb1heading {
+    font-size: 16px;
+    color: #ffffff;
+    font-family: "Bree Serif";
+}
+
+.rb1container {
+    margin-left: 10px;
+}
+
+.rb1description {
+    font-size: 12px;
+    color: #e4e7eb;
+    font-family: "Bree Serif";
+}
+
+.wf-page {
+    background-color: #1b1b1b;
+    text-align: center;
+    padding: 24px;
+}
+
+.apj-image {
+    height: 295px;
+    width: 190px;
+    margin-bottom: 20px;
+}
+
+.wf-heading {
+    font-size: 28px;
+    color: #ffffff;
+    font-family: "Bree Serif";
+}
+
+.wf-description {
+    font-size: 12px;
+    color: #e4e7eb;
+    font-family: "Bree Serif";
+    margin-top: 10px;
+    text-align: left;
+}
+
+.wf-author {
+    font-size: 12px;
+    color: #9aa5b1;
+    font-family: "Bree Serif";
+}
